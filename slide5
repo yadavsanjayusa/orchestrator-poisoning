@@ -1,0 +1,17 @@
+Okay, same system as before. We've just zoomed in.
+
+Don't try to read every box. Just look for the red numbers. Each red number is a door an attacker can walk through. There are eight of them.
+
+And they really come down to four simple ideas.
+
+One. What the agent reads. That's number 1, the policy documents. Number 2, notes from other agents. And number 5, its memory. If someone can write to any of those, they can talk to your agent.
+
+Two. The tools it uses. Numbers 3 and 4. The agent reads a description of every tool before it uses it. Change that description, or quietly swap the tool for a new version, and you change what the agent does.
+
+Three. Its to-do list. Number 6. The agent keeps a list of steps it still has to do. And it can edit that list itself. So if someone tricks it into ticking off "risk check, done," that check just never happens.
+
+Four. The record and the sign-off. Number 7 is the log, which the agent writes itself. Number 8 is the human approval screen. These are your last lines of defense, so they're targets too.
+
+Now here's the part I really want you to notice. Look at where those red numbers sit. They're spread across four different layers. And in most companies, that's four different teams.
+
+Everyone's guarding their own piece. Nobody's looking at the whole picture. And that's exactly the gap an attacker uses.
