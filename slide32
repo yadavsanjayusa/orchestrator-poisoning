@@ -1,0 +1,11 @@
+Last piece. How do you get this funded? You talk to your model risk team in their language.
+
+For banks, that language has been SR 11-7 since 2011. The idea is simple. If a model can cause harm, someone independent has to be able to check it and reconstruct what it did.
+
+Here's the twist. In April this year, the regulators replaced SR 11-7 with new guidance, SR 26-2. And it leaves generative and agentic AI out of scope, for now.
+
+Some people will hear that as "agents aren't covered, so we're fine." Please don't. An agent takes a model's output and acts on it, with no human in between. That's more model risk, not less.
+
+So the table is really just a translation. Each row is something your risk team already asks for, and the controls on the right are how you'd show it for an agent.
+
+If you remember one thing: the context window is the model's input. So how you build it is model risk. That's not a new rule. It's an old rule nobody's applied yet.
