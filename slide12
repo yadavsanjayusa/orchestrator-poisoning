@@ -1,0 +1,19 @@
+Okay. Eight attacks on one slide looks like a lot. So don't read the cards. Read the four headers across the top.
+
+Think about how a burglar works. First, they get in the door. Then, they get to something valuable. Then, they make sure they can come back. And last, they cover their tracks.
+
+Attacking an AI agent works exactly the same way.
+
+Get in. That's the first column. The attacker gets their words into something your agent reads. A wiki page. A reply from another agent.
+
+Reach something valuable. Second column. They get to the tools your agent uses. Change what a tool says it does, and you change what the agent does.
+
+Make it stick. Third column. They plant it in memory, or in the agent's to-do list. So it keeps working even after you've cleaned up the original problem.
+
+And cover the tracks. Last column. The agent writes its own log. And a human approves its work based on a summary the attacker helped write. So the evidence looks fine.
+
+Here's the important part. The attacker doesn't need all eight. They just need one from each step, and they link them together. That's the chain.
+
+And most teams fix one column and call it done. That's like locking the front door and leaving the window open.
+
+You'll see all three demos follow this same path. Watch for it.
